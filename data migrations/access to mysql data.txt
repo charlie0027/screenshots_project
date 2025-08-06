@@ -6,3 +6,5 @@ dbname: db_taoka
 
 affected table: memberlist 
 
+no birthday, set to 1 / 1 / 2025
+no member id no, set to 24-01464
