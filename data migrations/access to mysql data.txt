@@ -1,0 +1,8 @@
+server: 192.168.3.7
+port: 7145
+user: a
+password: P@ssw0rd1234
+dbname: db_taoka
+
+affected table: memberlist 
+
