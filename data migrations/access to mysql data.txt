@@ -19,8 +19,18 @@ createdate from 15/04/2025 to 06/08/2025
 126 = TD (Time deposit)
 
 Loans changes
-RL = 180 (Regular Loan)
-ML = 168 (Mobility Loan)
-EL = *No emergency loan type in db
-SL = *Salary loans not specifically included in db
-SPL = *special loans not specifically included in db
+RL = 128 (Regular Loan)
+ML = 170 (Micro)
+EL = *No emergency loan type in db (168)
+SL = *Salary loans not specifically included in db (161)
+SPL = *special loans not specifically included in db (169)
+
+Chart of Accounts
+
+Asset = 1
+Liabilities = 2
+Revenues = 3
+Operating Expense = 4
+
+
+Taoka migrated
